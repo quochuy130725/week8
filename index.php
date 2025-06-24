@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ananya Agrawal</title>
+<title>Phạm Huỳnh Quốc Huy</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
